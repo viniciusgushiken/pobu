@@ -1,2 +1,2 @@
-# pobu
-Home of Pobu
+# Pobu
+information is power
