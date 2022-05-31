@@ -1,2 +1,2 @@
 # Pobu
-information is power
+Information is power
